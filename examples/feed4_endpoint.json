@@ -1,0 +1,5 @@
+﻿[
+  {"ioc":"45.146.165.37","comment":"repeated in endpoint logs"},
+  {"ioc":"billing-alert-security.net","comment":"dns resolution"},
+  {"ioc":"d41d8cd98f00b204e9800998ecf8427e","comment":"file hash seen"}
+]

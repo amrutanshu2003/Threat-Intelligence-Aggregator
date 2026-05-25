@@ -1,0 +1,5 @@
+﻿id,indicator,note
+1,45.146.165.37,malicious c2 ip
+2,http://steal-login-center.com/auth,phishing url
+3,billing-alert-security.net,suspicious domain
+4,d41d8cd98f00b204e9800998ecf8427e,known md5

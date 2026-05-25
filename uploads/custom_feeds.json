@@ -1,0 +1,9 @@
+[
+  {
+    "name": "uploaded_threat_report",
+    "source_type": "file",
+    "location": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\uploads\\threat_report.txt",
+    "format": "txt",
+    "category": "uploaded"
+  }
+]

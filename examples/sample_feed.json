@@ -1,0 +1,14 @@
+﻿[
+  {
+    "artifact": "185.199.110.153",
+    "comment": "Repeated IP from another feed"
+  },
+  {
+    "artifact": "http://bad-example-login.com/path",
+    "comment": "Repeated phishing URL"
+  },
+  {
+    "artifact": "malicious-domain-control.net",
+    "comment": "C2 domain"
+  }
+]

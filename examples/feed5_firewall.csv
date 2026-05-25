@@ -1,0 +1,5 @@
+﻿report_line,details
+line1,connection from 45.146.165.37 to internal host
+line2,download from https://steal-login-center.com/auth
+line3,malicious domain billing-alert-security.net contacted
+line4,sha1=9e107d9d372bb6826bd81d3542a419d6

@@ -1,0 +1,8 @@
+﻿[
+  {"name":"feed1_osint","source_type":"file","location":"examples/feed1_osint.csv","format":"csv","category":"osint"},
+  {"name":"feed2_cert","source_type":"file","location":"examples/feed2_cert.txt","format":"txt","category":"cert"},
+  {"name":"feed3_siem","source_type":"file","location":"examples/feed3_siem.json","format":"json","category":"siem"},
+  {"name":"feed4_endpoint","source_type":"file","location":"examples/feed4_endpoint.json","format":"json","category":"endpoint"},
+  {"name":"feed5_firewall","source_type":"file","location":"examples/feed5_firewall.csv","format":"csv","category":"firewall"},
+  {"name":"feed6_partner","source_type":"file","location":"examples/feed6_partner.txt","format":"txt","category":"partner"}
+]

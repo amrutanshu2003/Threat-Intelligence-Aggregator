@@ -1,0 +1,22 @@
+Threat Intelligence Aggregator Final Report
+=============================================
+Generated At: 2026-05-25T01:16:43.715286Z
+
+Feed Processing Summary:
+- urlhaus_recent_urls: status=ok, rows=21775, iocs=98839
+- openphish_feed: status=ok, rows=300, iocs=636
+- cert_sample_local_backup: status=ok, rows=5, iocs=5
+
+Total Normalized IOCs: 99480
+Total Unique Correlated IOCs: 56219
+Severity Breakdown:
+- High: 0
+- Medium: 0
+- Low: 56219
+
+Top High-Priority Indicators:
+------WebKitFormBoundaryB45pV0koDJYJkTHA
+Content-Disposition: form-data; name="feed_format"
+
+txt
+------WebKitFormBoundaryB45pV0koDJYJkTHA--

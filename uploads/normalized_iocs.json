@@ -1,0 +1,14 @@
+[
+  {
+    "indicator": "google.com",
+    "ioc_type": "domain",
+    "source": "uploaded_google.com",
+    "category": "uploaded",
+    "ingested_at": "2026-05-25T02:16:23.979166+00:00"
+  }
+]
+------WebKitFormBoundaryXW9pCk2dnkC1nXAN
+Content-Disposition: form-data; name="feed_format"
+
+csv
+------WebKitFormBoundaryXW9pCk2dnkC1nXAN--

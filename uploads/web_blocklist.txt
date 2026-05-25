@@ -1,0 +1,18 @@
+billing-alert-security.net
+steal-login-center.com
+https://steal-login-center.com/auth
+http://steal-login-center.com/auth
+fake-invoice-portal.com
+------WebKitFormBoundarybX6Ap8c0veXsvsWC
+Content-Disposition: form-data; name="feed_url"
+
+
+------WebKitFormBoundarybX6Ap8c0veXsvsWC
+Content-Disposition: form-data; name="feed_format"
+
+txt
+------WebKitFormBoundarybX6Ap8c0veXsvsWC
+Content-Disposition: form-data; name="feed_category"
+
+custom
+------WebKitFormBoundarybX6Ap8c0veXsvsWC--

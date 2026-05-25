@@ -1,0 +1,5 @@
+﻿id,indicator,notes
+1,185.199.110.153,Known malicious host
+2,http://bad-example-login.com/path,Phishing URL
+3,4f90d7f2d9f33e7a0f8c8f6109bbf4f4,MD5 hash
+4,alerts@fake-support-security.com,Suspicious sender

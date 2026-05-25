@@ -1,0 +1,5 @@
+﻿Potential targets:
+203.0.113.50
+https://credential-reset-security.example.net/login
+invoice@fraud-mail.org
+SHA256=7f83b1657ff1fc53b92dc18148a1d65dfa13514a5f8f8b26f6f3d7b3a4f6f2bc

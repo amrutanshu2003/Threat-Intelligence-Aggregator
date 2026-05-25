@@ -1,0 +1,8 @@
+indicator,ioc_type,source_count,total_mentions,severity,sources
+google.com,domain,1,1,Low,uploaded_google.com
+
+------WebKitFormBoundarytrAswEP2KuCmEu9L
+Content-Disposition: form-data; name="feed_format"
+
+txt
+------WebKitFormBoundarytrAswEP2KuCmEu9L--

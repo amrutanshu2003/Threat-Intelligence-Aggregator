@@ -1,0 +1,19 @@
+indicator,ioc_type,source_count,total_mentions,severity,sources
+185.199.110.153,ip,1,1,Low,sample_csv_feed
+http://bad-example-login.com/path,url,1,1,Low,sample_csv_feed
+bad-example-login.com,domain,1,1,Low,sample_csv_feed
+4f90d7f2d9f33e7a0f8c8f6109bbf4f4,hash,1,1,Low,sample_csv_feed
+alerts@fake-support-security.com,email,1,1,Low,sample_csv_feed
+fake-support-security.com,domain,1,1,Low,sample_csv_feed
+203.0.113.50,ip,1,1,Low,sample_txt_feed
+https://credential-reset-security.example.net/login,url,1,1,Low,sample_txt_feed
+credential-reset-security.example.net,domain,1,1,Low,sample_txt_feed
+invoice@fraud-mail.org,email,1,1,Low,sample_txt_feed
+fraud-mail.org,domain,1,1,Low,sample_txt_feed
+7f83b1657ff1fc53b92dc18148a1d65dfa13514a5f8f8b26f6f3d7b3a4f6f2bc,hash,1,1,Low,sample_txt_feed
+
+------WebKitFormBoundaryATzbY5WgUgjpCSLR
+Content-Disposition: form-data; name="feed_format"
+
+txt
+------WebKitFormBoundaryATzbY5WgUgjpCSLR--

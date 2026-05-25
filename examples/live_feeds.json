@@ -1,0 +1,23 @@
+﻿[
+  {
+    "name": "urlhaus_recent_urls",
+    "source_type": "url",
+    "location": "https://urlhaus.abuse.ch/downloads/csv_recent/",
+    "format": "csv",
+    "category": "malware"
+  },
+  {
+    "name": "openphish_feed",
+    "source_type": "url",
+    "location": "https://openphish.com/feed.txt",
+    "format": "txt",
+    "category": "phishing"
+  },
+  {
+    "name": "cert_sample_local_backup",
+    "source_type": "file",
+    "location": "examples/feed6_partner.txt",
+    "format": "txt",
+    "category": "cert"
+  }
+]

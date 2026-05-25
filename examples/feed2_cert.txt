@@ -1,0 +1,5 @@
+﻿Suspicious IOC list
+45.146.165.37
+hxxp://fake-invoice-portal.com
+billing-alert-security.net
+d41d8cd98f00b204e9800998ecf8427e

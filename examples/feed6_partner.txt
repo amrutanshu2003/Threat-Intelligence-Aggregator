@@ -1,0 +1,5 @@
+﻿Threat indicators shared by CERT partner:
+45.146.165.37
+billing-alert-security.net
+9e107d9d372bb6826bd81d3542a419d6
+contact@billing-alert-security.net
