@@ -1,8 +1,8 @@
 [
   {
-    "name": "uploaded_threat_report",
+    "name": "uploaded_firewall_ip_blocklist",
     "source_type": "file",
-    "location": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\uploads\\threat_report.txt",
+    "location": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\uploads\\firewall_ip_blocklist.txt",
     "format": "txt",
     "category": "uploaded"
   }

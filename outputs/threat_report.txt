@@ -1,0 +1,22 @@
+Threat Intelligence Aggregator Final Report
+=============================================
+Generated At: 2026-05-25T04:41:35.037767Z
+
+Feed Processing Summary:
+- feed1_osint: status=ok, rows=4, iocs=5
+- feed2_cert: status=ok, rows=5, iocs=4
+- feed3_siem: status=ok, rows=4, iocs=5
+- feed4_endpoint: status=ok, rows=3, iocs=3
+- feed5_firewall: status=ok, rows=4, iocs=5
+- feed6_partner: status=ok, rows=5, iocs=5
+
+Total Normalized IOCs: 27
+Total Unique Correlated IOCs: 9
+Severity Breakdown:
+- High: 2
+- Medium: 3
+- Low: 4
+
+Top High-Priority Indicators:
+- 45.146.165.37 (ip) | sources=feed1_osint,feed2_cert,feed3_siem,feed4_endpoint,feed5_firewall,feed6_partner | mentions=6
+- billing-alert-security.net (domain) | sources=feed1_osint,feed2_cert,feed3_siem,feed4_endpoint,feed5_firewall,feed6_partner | mentions=6

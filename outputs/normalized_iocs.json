@@ -1,0 +1,184 @@
+[
+  {
+    "indicator": "45.146.165.37",
+    "ioc_type": "ip",
+    "source": "feed1_osint",
+    "category": "osint",
+    "ingested_at": "2026-05-25T04:41:35.032283+00:00"
+  },
+  {
+    "indicator": "http://steal-login-center.com/auth",
+    "ioc_type": "url",
+    "source": "feed1_osint",
+    "category": "osint",
+    "ingested_at": "2026-05-25T04:41:35.032320+00:00"
+  },
+  {
+    "indicator": "steal-login-center.com",
+    "ioc_type": "domain",
+    "source": "feed1_osint",
+    "category": "osint",
+    "ingested_at": "2026-05-25T04:41:35.032324+00:00"
+  },
+  {
+    "indicator": "billing-alert-security.net",
+    "ioc_type": "domain",
+    "source": "feed1_osint",
+    "category": "osint",
+    "ingested_at": "2026-05-25T04:41:35.032339+00:00"
+  },
+  {
+    "indicator": "d41d8cd98f00b204e9800998ecf8427e",
+    "ioc_type": "hash",
+    "source": "feed1_osint",
+    "category": "osint",
+    "ingested_at": "2026-05-25T04:41:35.032348+00:00"
+  },
+  {
+    "indicator": "45.146.165.37",
+    "ioc_type": "ip",
+    "source": "feed2_cert",
+    "category": "cert",
+    "ingested_at": "2026-05-25T04:41:35.032488+00:00"
+  },
+  {
+    "indicator": "fake-invoice-portal.com",
+    "ioc_type": "domain",
+    "source": "feed2_cert",
+    "category": "cert",
+    "ingested_at": "2026-05-25T04:41:35.032510+00:00"
+  },
+  {
+    "indicator": "billing-alert-security.net",
+    "ioc_type": "domain",
+    "source": "feed2_cert",
+    "category": "cert",
+    "ingested_at": "2026-05-25T04:41:35.032522+00:00"
+  },
+  {
+    "indicator": "d41d8cd98f00b204e9800998ecf8427e",
+    "ioc_type": "hash",
+    "source": "feed2_cert",
+    "category": "cert",
+    "ingested_at": "2026-05-25T04:41:35.032529+00:00"
+  },
+  {
+    "indicator": "45.146.165.37",
+    "ioc_type": "ip",
+    "source": "feed3_siem",
+    "category": "siem",
+    "ingested_at": "2026-05-25T04:41:35.032653+00:00"
+  },
+  {
+    "indicator": "billing-alert-security.net",
+    "ioc_type": "domain",
+    "source": "feed3_siem",
+    "category": "siem",
+    "ingested_at": "2026-05-25T04:41:35.032678+00:00"
+  },
+  {
+    "indicator": "9e107d9d372bb6826bd81d3542a419d6",
+    "ioc_type": "hash",
+    "source": "feed3_siem",
+    "category": "siem",
+    "ingested_at": "2026-05-25T04:41:35.032691+00:00"
+  },
+  {
+    "indicator": "https://steal-login-center.com/auth",
+    "ioc_type": "url",
+    "source": "feed3_siem",
+    "category": "siem",
+    "ingested_at": "2026-05-25T04:41:35.032708+00:00"
+  },
+  {
+    "indicator": "steal-login-center.com",
+    "ioc_type": "domain",
+    "source": "feed3_siem",
+    "category": "siem",
+    "ingested_at": "2026-05-25T04:41:35.032710+00:00"
+  },
+  {
+    "indicator": "45.146.165.37",
+    "ioc_type": "ip",
+    "source": "feed4_endpoint",
+    "category": "endpoint",
+    "ingested_at": "2026-05-25T04:41:35.032838+00:00"
+  },
+  {
+    "indicator": "billing-alert-security.net",
+    "ioc_type": "domain",
+    "source": "feed4_endpoint",
+    "category": "endpoint",
+    "ingested_at": "2026-05-25T04:41:35.032855+00:00"
+  },
+  {
+    "indicator": "d41d8cd98f00b204e9800998ecf8427e",
+    "ioc_type": "hash",
+    "source": "feed4_endpoint",
+    "category": "endpoint",
+    "ingested_at": "2026-05-25T04:41:35.032865+00:00"
+  },
+  {
+    "indicator": "45.146.165.37",
+    "ioc_type": "ip",
+    "source": "feed5_firewall",
+    "category": "firewall",
+    "ingested_at": "2026-05-25T04:41:35.033023+00:00"
+  },
+  {
+    "indicator": "https://steal-login-center.com/auth",
+    "ioc_type": "url",
+    "source": "feed5_firewall",
+    "category": "firewall",
+    "ingested_at": "2026-05-25T04:41:35.033061+00:00"
+  },
+  {
+    "indicator": "steal-login-center.com",
+    "ioc_type": "domain",
+    "source": "feed5_firewall",
+    "category": "firewall",
+    "ingested_at": "2026-05-25T04:41:35.033065+00:00"
+  },
+  {
+    "indicator": "billing-alert-security.net",
+    "ioc_type": "domain",
+    "source": "feed5_firewall",
+    "category": "firewall",
+    "ingested_at": "2026-05-25T04:41:35.033082+00:00"
+  },
+  {
+    "indicator": "9e107d9d372bb6826bd81d3542a419d6",
+    "ioc_type": "hash",
+    "source": "feed5_firewall",
+    "category": "firewall",
+    "ingested_at": "2026-05-25T04:41:35.033092+00:00"
+  },
+  {
+    "indicator": "45.146.165.37",
+    "ioc_type": "ip",
+    "source": "feed6_partner",
+    "category": "partner",
+    "ingested_at": "2026-05-25T04:41:35.033229+00:00"
+  },
+  {
+    "indicator": "billing-alert-security.net",
+    "ioc_type": "domain",
+    "source": "feed6_partner",
+    "category": "partner",
+    "ingested_at": "2026-05-25T04:41:35.033274+00:00"
+  },
+  {
+    "indicator": "9e107d9d372bb6826bd81d3542a419d6",
+    "ioc_type": "hash",
+    "source": "feed6_partner",
+    "category": "partner",
+    "ingested_at": "2026-05-25T04:41:35.033259+00:00"
+  },
+  {
+    "indicator": "contact@billing-alert-security.net",
+    "ioc_type": "email",
+    "source": "feed6_partner",
+    "category": "partner",
+    "ingested_at": "2026-05-25T04:41:35.033271+00:00"
+  }
+]

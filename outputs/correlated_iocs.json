@@ -1,0 +1,109 @@
+[
+  {
+    "indicator": "45.146.165.37",
+    "ioc_type": "ip",
+    "sources": [
+      "feed1_osint",
+      "feed2_cert",
+      "feed3_siem",
+      "feed4_endpoint",
+      "feed5_firewall",
+      "feed6_partner"
+    ],
+    "source_count": 6,
+    "total_mentions": 6,
+    "severity": "High"
+  },
+  {
+    "indicator": "billing-alert-security.net",
+    "ioc_type": "domain",
+    "sources": [
+      "feed1_osint",
+      "feed2_cert",
+      "feed3_siem",
+      "feed4_endpoint",
+      "feed5_firewall",
+      "feed6_partner"
+    ],
+    "source_count": 6,
+    "total_mentions": 6,
+    "severity": "High"
+  },
+  {
+    "indicator": "steal-login-center.com",
+    "ioc_type": "domain",
+    "sources": [
+      "feed1_osint",
+      "feed3_siem",
+      "feed5_firewall"
+    ],
+    "source_count": 3,
+    "total_mentions": 3,
+    "severity": "Medium"
+  },
+  {
+    "indicator": "d41d8cd98f00b204e9800998ecf8427e",
+    "ioc_type": "hash",
+    "sources": [
+      "feed1_osint",
+      "feed2_cert",
+      "feed4_endpoint"
+    ],
+    "source_count": 3,
+    "total_mentions": 3,
+    "severity": "Medium"
+  },
+  {
+    "indicator": "9e107d9d372bb6826bd81d3542a419d6",
+    "ioc_type": "hash",
+    "sources": [
+      "feed3_siem",
+      "feed5_firewall",
+      "feed6_partner"
+    ],
+    "source_count": 3,
+    "total_mentions": 3,
+    "severity": "Medium"
+  },
+  {
+    "indicator": "https://steal-login-center.com/auth",
+    "ioc_type": "url",
+    "sources": [
+      "feed3_siem",
+      "feed5_firewall"
+    ],
+    "source_count": 2,
+    "total_mentions": 2,
+    "severity": "Low"
+  },
+  {
+    "indicator": "http://steal-login-center.com/auth",
+    "ioc_type": "url",
+    "sources": [
+      "feed1_osint"
+    ],
+    "source_count": 1,
+    "total_mentions": 1,
+    "severity": "Low"
+  },
+  {
+    "indicator": "fake-invoice-portal.com",
+    "ioc_type": "domain",
+    "sources": [
+      "feed2_cert"
+    ],
+    "source_count": 1,
+    "total_mentions": 1,
+    "severity": "Low"
+  },
+  {
+    "indicator": "contact@billing-alert-security.net",
+    "ioc_type": "email",
+    "sources": [
+      "feed6_partner"
+    ],
+    "source_count": 1,
+    "total_mentions": 1,
+    "severity": "Low"
+  }
+]

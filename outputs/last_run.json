@@ -1,0 +1,60 @@
+{
+  "feed_stats": [
+    {
+      "name": "feed1_osint",
+      "status": "ok",
+      "rows": 4,
+      "iocs": 5
+    },
+    {
+      "name": "feed2_cert",
+      "status": "ok",
+      "rows": 5,
+      "iocs": 4
+    },
+    {
+      "name": "feed3_siem",
+      "status": "ok",
+      "rows": 4,
+      "iocs": 5
+    },
+    {
+      "name": "feed4_endpoint",
+      "status": "ok",
+      "rows": 3,
+      "iocs": 3
+    },
+    {
+      "name": "feed5_firewall",
+      "status": "ok",
+      "rows": 4,
+      "iocs": 5
+    },
+    {
+      "name": "feed6_partner",
+      "status": "ok",
+      "rows": 5,
+      "iocs": 5
+    }
+  ],
+  "normalized_total": 27,
+  "unique_correlated": 9,
+  "db_stats": {
+    "inserted_new": 0,
+    "updated_existing": 26,
+    "db_total_iocs": 112525,
+    "db_total_runs": 54
+  },
+  "outputs": {
+    "normalized_json": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\outputs\\normalized_iocs.json",
+    "normalized_csv": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\outputs\\normalized_iocs.csv",
+    "parsed_iocs_by_type": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\outputs\\parsed_iocs_by_type.json",
+    "firewall_ip_blocklist": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\outputs\\firewall_ip_blocklist.txt",
+    "web_blocklist": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\outputs\\web_blocklist.txt",
+    "edr_hash_blocklist": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\outputs\\edr_hash_blocklist.txt",
+    "correlated_csv": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\outputs\\correlated_iocs.csv",
+    "correlated_json": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\outputs\\correlated_iocs.json",
+    "report_json": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\outputs\\threat_report.json",
+    "report_txt": "C:\\Users\\amrut\\Documents\\Threat Intelligence Aggregator\\outputs\\threat_report.txt"
+  }
+}

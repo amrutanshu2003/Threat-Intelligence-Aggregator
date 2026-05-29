@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-05-25T04:41:35.037767Z",
+  "feeds_processed": [
+    {
+      "name": "feed1_osint",
+      "status": "ok",
+      "rows": 4,
+      "iocs": 5
+    },
+    {
+      "name": "feed2_cert",
+      "status": "ok",
+      "rows": 5,
+      "iocs": 4
+    },
+    {
+      "name": "feed3_siem",
+      "status": "ok",
+      "rows": 4,
+      "iocs": 5
+    },
+    {
+      "name": "feed4_endpoint",
+      "status": "ok",
+      "rows": 3,
+      "iocs": 3
+    },
+    {
+      "name": "feed5_firewall",
+      "status": "ok",
+      "rows": 4,
+      "iocs": 5
+    },
+    {
+      "name": "feed6_partner",
+      "status": "ok",
+      "rows": 5,
+      "iocs": 5
+    }
+  ],
+  "total_normalized_iocs": 27,
+  "total_unique_iocs": 9,
+  "severity_breakdown": {
+    "High": 2,
+    "Medium": 3,
+    "Low": 4
+  },
+  "high_priority_indicators": [
+    {
+      "indicator": "45.146.165.37",
+      "ioc_type": "ip",
+      "sources": [
+        "feed1_osint",
+        "feed2_cert",
+        "feed3_siem",
+        "feed4_endpoint",
+        "feed5_firewall",
+        "feed6_partner"
+      ],
+      "source_count": 6,
+      "total_mentions": 6,
+      "severity": "High"
+    },
+    {
+      "indicator": "billing-alert-security.net",
+      "ioc_type": "domain",
+      "sources": [
+        "feed1_osint",
+        "feed2_cert",
+        "feed3_siem",
+        "feed4_endpoint",
+        "feed5_firewall",
+        "feed6_partner"
+      ],
+      "source_count": 6,
+      "total_mentions": 6,
+      "severity": "High"
+    }
+  ]
+}

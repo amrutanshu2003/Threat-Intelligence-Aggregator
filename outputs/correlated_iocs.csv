@@ -1,0 +1,10 @@
+indicator,ioc_type,source_count,total_mentions,severity,sources
+45.146.165.37,ip,6,6,High,feed1_osint;feed2_cert;feed3_siem;feed4_endpoint;feed5_firewall;feed6_partner
+billing-alert-security.net,domain,6,6,High,feed1_osint;feed2_cert;feed3_siem;feed4_endpoint;feed5_firewall;feed6_partner
+steal-login-center.com,domain,3,3,Medium,feed1_osint;feed3_siem;feed5_firewall
+d41d8cd98f00b204e9800998ecf8427e,hash,3,3,Medium,feed1_osint;feed2_cert;feed4_endpoint
+9e107d9d372bb6826bd81d3542a419d6,hash,3,3,Medium,feed3_siem;feed5_firewall;feed6_partner
+https://steal-login-center.com/auth,url,2,2,Low,feed3_siem;feed5_firewall
+http://steal-login-center.com/auth,url,1,1,Low,feed1_osint
+fake-invoice-portal.com,domain,1,1,Low,feed2_cert
+contact@billing-alert-security.net,email,1,1,Low,feed6_partner
